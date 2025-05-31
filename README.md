@@ -3,7 +3,7 @@
 This project was completed as part of my DATA301 coursework. It focuses on uncovering associations between book interactions using market basket analysis on a large-scale Goodreads dataset.
 
 # 🔍 Project Overview
-The goal of this project was to identify frequently co-occurring book interactions using the Apriori algorithm. To handle the scale of the dataset efficiently, I used Dask for parallel processing and tested the scalability of the solution using Google Cloud.
+The goal of this project was to identify frequently co-occurring book interactions and generate high-confidence association rules using the Apriori algorithm. To efficiently handle the scale of the Goodreads dataset, I leveraged Dask for parallel processing and evaluated the solution’s scalability by deploying it on Google Cloud.
 
 # ⚙️ Technologies Used
 
