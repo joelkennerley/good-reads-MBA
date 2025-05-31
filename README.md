@@ -1,4 +1,4 @@
-# Good Reads Recommendation System
+# Good Reads Market basket analysis
 
 This project was completed as part of my DATA301 coursework. It focuses on uncovering associations between book interactions using market basket analysis on a large-scale Goodreads dataset.
 
